@@ -1,0 +1,12 @@
+body {background-color: coral;}
+h1 {
+    border-right: 5px solid rgb(136, 255, 0);
+  }
+  
+  h2 {
+    border-right: 4px dotted rgb(5, 182, 188);
+  }
+  
+  div {
+    border-right: double;
+  }
