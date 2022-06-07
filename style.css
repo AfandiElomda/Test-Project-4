@@ -1,37 +1,32 @@
-body {background-color: coral;
+body {
   background-image: url('./assests/images/music-nightclub-1420666.jpg');
 }
-h1 {
-    border-right: 5px solid rgb(136, 255, 0);
-  }
-  
-  h2 {
-    border-right: 4px dotted rgb(5, 182, 188);
-  }
-  
-  div {
-    border-right: double;
-  }
 
-  .navbar-brand{
-    font-size: 40px;
-    color: aqua;
-    font-family: serif;
-    font-weight: bold;
-
-  }
   .nav-link{
     font-size:40px;
-    color:aqua;
+    color:rgb(186, 179, 58);
     display: flex;
     padding-left: 30px;
     font-family: serif;
     font-weight: bold;
-
     
+  }
+  .logo{
+    width: 120%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
   }
   .navbar-nav {
     display: flex;
     float: right;
 
+  }
+
+  h1{font-size:40px;
+    color:rgb(58, 186, 169);
+    font-family: serif;
+    font-weight: bold;
+    
   }
