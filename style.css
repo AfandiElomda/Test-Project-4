@@ -1,4 +1,6 @@
-body {background-color: coral;}
+body {background-color: coral;
+  background-image: url('./assests/images/music-nightclub-1420666.jpg');
+}
 h1 {
     border-right: 5px solid rgb(136, 255, 0);
   }
@@ -10,6 +12,21 @@ h1 {
   div {
     border-right: double;
   }
-  p {
-    background-image: url("music-nightclub-1420666.jpg");
+
+  .navbar-brand{
+    font-size: 40px;
+    color: aqua;
+  }
+  .nav-link{
+    font-size:40px;
+    color:aqua;
+    display: flex;
+    padding-left: 30px;
+    text-decoration: none;
+    
+  }
+  .navbar-nav {
+    display: flex;
+    float: right;
+
   }
