@@ -16,13 +16,18 @@ h1 {
   .navbar-brand{
     font-size: 40px;
     color: aqua;
+    font-family: serif;
+    font-weight: bold;
+
   }
   .nav-link{
     font-size:40px;
     color:aqua;
     display: flex;
     padding-left: 30px;
-    text-decoration: none;
+    font-family: serif;
+    font-weight: bold;
+
     
   }
   .navbar-nav {
